@@ -1,0 +1,15 @@
+{
+    "name": "roman/hexlet-git",
+    "description": "My first project",
+    "autoload": {
+        "psr-4": {
+            "Roman\\HexletGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yurkov Roman"
+        }
+    ],
+    "require": {}
+}
